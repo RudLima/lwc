@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/rudlima.lwc-l4o5a25n-fork-l4o5t3j2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve sfF8NEslw1GlkJhbEYGY --open"
+  }
+}
